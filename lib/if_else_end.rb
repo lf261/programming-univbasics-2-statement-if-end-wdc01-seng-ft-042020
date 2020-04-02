@@ -1,7 +1,7 @@
 # Write your solution here
 current_second = Time.now
-if Time.now = % 2 
+if current_second = % 2 
   puts "Even!"
-else Time.now != % 2 
+else current_second != % 2 
   puts "Odd!"
 end
