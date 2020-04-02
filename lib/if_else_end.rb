@@ -1,7 +1,6 @@
 # Write your solution here
-current_second = Time.now
 if true
   puts "Even!"
-else false
+else 
   puts "Odd!"
 end
