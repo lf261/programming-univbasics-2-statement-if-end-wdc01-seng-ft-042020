@@ -1,8 +1,7 @@
 # Write your solution here
-
-run_code_inside = true
-puts "Code before if...end"
-if run_code_inside
-  puts "code inside"
+current_second = Time.now
+if Time.now = % 2 
+  puts "Even!"
+else Time.now != % 2 
+  puts "Odd!"
 end
-puts "Code after if...end"
